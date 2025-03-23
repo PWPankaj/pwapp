@@ -6,5 +6,6 @@
   <?php
   echo "THis APP IS Created using azure app service !!";
   ?>
+<a href="about.php">about us</a>
 </body>
 </html>
